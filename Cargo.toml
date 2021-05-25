@@ -6,9 +6,3 @@ members = [
 ]
 [profile.release]
 panic = 'unwind'
-
-[package]
-
-name = "substrate"
-version = "0.0.0"
-authors = ["Johnson Aniketh Nagamallah"]
